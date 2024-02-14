@@ -32,3 +32,4 @@ module.exports = {
     apiKey: ETHERSCAN_API,
   },
 };
+
